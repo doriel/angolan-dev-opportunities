@@ -4,7 +4,7 @@ A list of companies in need of developers. Many companies have been asking me wh
 
 ## Companies
 
-Nome | Website | Hiring
+Name | Website | Hiring
 ------------ | ------- | -------
 Advan Link | [Facebook Page](https://goo.gl/LJSydk) | Yes
 Bantu Makers | https://bantumakers.com/ | Yes
