@@ -30,6 +30,7 @@ SynAck | http://www.synackcertified.com/ | Yes
 Tecla Digital | http://www.tecladigital.co.ao | No
 Thin Tank | http://www.tt-angola.com/ | No
 TiAngola | http://tiangola.co.ao/ | Maybe
+UseKamba, LDA | https://usekamba.com/ | No
 Vila Soft| http://villasoft.net/ | Yes
 Virtual Corp | https://www.virtualcorpltd.com/ | No
 
